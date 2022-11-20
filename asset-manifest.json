@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/taskbucket-react-app/static/css/main.3e4e014d.css",
+    "main.js": "/taskbucket-react-app/static/js/main.1e302cf9.js",
+    "index.html": "/taskbucket-react-app/index.html",
+    "main.3e4e014d.css.map": "/taskbucket-react-app/static/css/main.3e4e014d.css.map",
+    "main.1e302cf9.js.map": "/taskbucket-react-app/static/js/main.1e302cf9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e4e014d.css",
+    "static/js/main.1e302cf9.js"
+  ]
+}
